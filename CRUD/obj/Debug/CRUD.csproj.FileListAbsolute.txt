@@ -1,0 +1,22 @@
+C:\Users\utente\Desktop\vscode\C#\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\utente\Desktop\vscode\C#\CRUD\bin\Debug\CRUD.exe
+C:\Users\utente\Desktop\vscode\C#\CRUD\bin\Debug\CRUD.pdb
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.FrmStruct.resources
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.exe
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.pdb
+C:\Users\utente\Desktop\vscode\C#\CRUD\obj\Debug\CRUD.FrmMain.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\bin\Debug\CRUD.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\bin\Debug\CRUD.pdb
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.csprojAssemblyReference.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.FrmMain.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.FrmStruct.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.exe
+C:\Users\utente\SCUOLA\INFORMATICA\vscode\C#\VSTUDIO PROJECTS\CRUD\obj\Debug\CRUD.pdb
